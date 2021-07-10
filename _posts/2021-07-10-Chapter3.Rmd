@@ -1,7 +1,6 @@
 ---
 title: "임상의학 연구자들을 위한 필수 R"
 author: "Jonggi Choi"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
   html_document: 
     toc: yes
